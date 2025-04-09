@@ -1,4 +1,3 @@
 *.db
 chroma.db/
-*.ipynb
 *.pdf
