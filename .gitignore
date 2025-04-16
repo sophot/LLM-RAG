@@ -2,3 +2,4 @@
 chroma.db/
 *.pdf
 *pycache*
+.env

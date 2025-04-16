@@ -3,3 +3,4 @@ chromadb
 litellm
 sentence_transformers
 accelerate
+python-dotenv
